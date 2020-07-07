@@ -1,2 +1,1 @@
-# py_lists_exercises
-Python Lists Exercises (Blank)
+# Personal Python Sandbox
