@@ -1,0 +1,11 @@
+# Pytest
+/.pytest_cache
+/__pycache__
+
+# VS Code
+/.vscode
+
+# Coverage
+.coverage
+/htmlcov
+
