@@ -14,6 +14,7 @@ print(g(f, 42))
 def addx(x):
     def _(y):
         return x + y
+
     return _
 
 
